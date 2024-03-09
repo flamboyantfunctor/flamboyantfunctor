@@ -1,9 +1,8 @@
 Hi Everyone!
 
-I am a mechanical engineer that is interested in all sorts of Computer Science stuff.
-I love to pretend i am a programmer.
+I am a mechanical engineer that takes side quests in all sorts of CS stuff.
+Bascially typing stuff into my code editor and hoping for the best.
 Building "Hello World"'s since 2019.
-I know every programming language good enough to create a variable.
 My favorite languages: Haskell, Python, JavaScript (yes JavaScript)
 
 
